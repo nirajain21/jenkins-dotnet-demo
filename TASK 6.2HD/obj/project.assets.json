@@ -1,0 +1,66 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "/Users/nirajain/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/TASK 6.2HD.csproj",
+      "projectName": "TASK 6.2HD",
+      "projectPath": "/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/TASK 6.2HD.csproj",
+      "packagesPath": "/Users/nirajain/.nuget/packages/",
+      "outputPath": "/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/nirajain/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.313/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

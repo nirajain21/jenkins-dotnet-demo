@@ -1,0 +1,15 @@
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/bin/Debug/net7.0/TASK 6.2HD
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/bin/Debug/net7.0/TASK 6.2HD.deps.json
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/bin/Debug/net7.0/TASK 6.2HD.runtimeconfig.json
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/bin/Debug/net7.0/TASK 6.2HD.dll
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/bin/Debug/net7.0/TASK 6.2HD.pdb
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/Debug/net7.0/TASK 6.2HD.csproj.AssemblyReference.cache
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/Debug/net7.0/TASK 6.2HD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/Debug/net7.0/TASK 6.2HD.AssemblyInfoInputs.cache
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/Debug/net7.0/TASK 6.2HD.AssemblyInfo.cs
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/Debug/net7.0/TASK 6.2HD.csproj.CoreCompileInputs.cache
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/Debug/net7.0/TASK 6.2HD.dll
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/Debug/net7.0/refint/TASK 6.2HD.dll
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/Debug/net7.0/TASK 6.2HD.pdb
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/Debug/net7.0/TASK 6.2HD.genruntimeconfig.cache
+/Users/nirajain/Library/CloudStorage/OneDrive-DeakinUniversity/SIT 223/Task 6.2HD/TASK 6.2HD/TASK 6.2HD/obj/Debug/net7.0/ref/TASK 6.2HD.dll
